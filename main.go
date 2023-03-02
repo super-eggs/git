@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"git/test"
+)
 
 func main() {
 	fmt.Println("hello word")
+	test.Run()
 }
