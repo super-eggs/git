@@ -7,5 +7,6 @@ import (
 
 func main() {
 	fmt.Println("hello word")
+	fmt.Println("one")
 	test.Run()
 }
